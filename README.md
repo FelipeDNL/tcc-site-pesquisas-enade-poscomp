@@ -1,6 +1,10 @@
 # Plataforma Web de Auxílio de Discentes e Docentes
 
-Esta é uma plataforma web customizável desenvolvida para facilitar o estudo e a preparação para os exames POSCOMP e Enade. Oferece funcionalidades como pesquisa de questões, geração de simulados personalizados, relatórios de desempenho e muito mais.
+Esta é uma plataforma web desenvolvida para facilitar o estudo e a preparação para os exames POSCOMP e Enade. Oferece funcionalidades como pesquisa de questões, geração de simulados personalizados, relatórios de desempenho e muito mais.
+
+Este é o repositório público do projeto. O site está disponivel para uso a partir do link https://tcc-site-33c66.web.app/.
+![image](https://github.com/user-attachments/assets/71135bd0-82b6-43bb-971c-3a252d6c3572)
+
 
 ## 🚀 Funcionalidades
 
@@ -47,31 +51,6 @@ Esta é uma plataforma web customizável desenvolvida para facilitar o estudo e 
 ## 🧪 Testes e Usabilidade
 
 O sistema foi avaliado utilizando o **System Usability Scale (SUS)**, obtendo uma pontuação média de **86,9**, considerada excelente. Feedbacks dos usuários ajudaram a identificar melhorias e validar as funcionalidades.
-
-## 📌 Requisitos Funcionais e Não Funcionais
-
-### Requisitos Funcionais
-- Autenticação e recuperação de contas.
-- Gerenciamento de banco de dados com questões do POSCOMP e Enade.
-- Geração de relatórios de desempenho detalhados.
-
-### Requisitos Não Funcionais
-- Conformidade com a LGPD.
-- Interface responsiva e otimizada para diferentes dispositivos.
-- Uso de tecnologias escaláveis como Firebase.
-
-## 📝 Contribuição
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-1. Faça um fork deste repositório.
-2. Crie um branch para sua funcionalidade (`git checkout -b minha-funcionalidade`).
-3. Realize o commit das alterações (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie as alterações para o branch original (`git push origin minha-funcionalidade`).
-5. Abra um Pull Request.
-
-## 📄 Licença
-
-Este projeto está licenciado sob os termos da licença MIT. Para mais informações, veja o arquivo [LICENSE](./LICENSE).
 
 ---
 
