@@ -3,6 +3,7 @@
 Esta é uma plataforma web desenvolvida para facilitar o estudo e a preparação para os exames POSCOMP e Enade. Oferece funcionalidades como pesquisa de questões, geração de simulados personalizados, relatórios de desempenho e muito mais.
 
 Este é o repositório público do projeto. O site está disponivel para uso a partir do link https://tcc-site-33c66.web.app/.
+
 ![image](https://github.com/user-attachments/assets/71135bd0-82b6-43bb-971c-3a252d6c3572)
 
 
