@@ -1,0 +1,12 @@
+.btn-custom {
+    background-color: rgb(17, 151, 17);
+    color: white;
+    /* Ajusta também a cor da borda */
+}
+
+.btn-custom:hover,
+.btn-custom:active {
+    background-color: rgb(17, 151, 17);
+    color: rgb(7, 173, 4);
+    border-color: rgb(17, 151, 17);
+}

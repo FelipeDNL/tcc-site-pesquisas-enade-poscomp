@@ -1,0 +1,47 @@
+{
+  "name": "tcc-site",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@coreui/coreui": "^5.2.0",
+    "@coreui/icons": "^3.0.1",
+    "@coreui/icons-react": "^2.3.0",
+    "@coreui/react": "^5.4.1",
+    "@coreui/react-chartjs": "^3.0.0",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "chart.js": "^4.4.6",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "dotenv": "^16.4.7",
+    "firebase": "^10.13.1",
+    "jodit": "^4.2.27",
+    "jodit-react": "^4.1.2",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-bootstrap-typeahead": "^6.3.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "react-froala-wysiwyg": "^4.2.2",
+    "react-quill": "^2.0.0",
+    "react-router-bootstrap": "^0.26.3",
+    "react-router-dom": "^6.26.1",
+    "react-select": "^5.8.1",
+    "sweetalert2": "^11.6.13",
+    "typesense": "^1.8.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "globals": "^15.9.0",
+    "vite": "^5.4.3"
+  }
+}

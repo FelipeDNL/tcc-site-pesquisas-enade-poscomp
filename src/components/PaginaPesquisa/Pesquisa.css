@@ -1,0 +1,57 @@
+.form-check-input:checked {
+    background-color: #178f09;
+    border-color: #90959b;
+}
+
+.form-check-input {
+    border-color: #90959b;
+}
+
+/* Pesquisa.css */
+.opcoes {
+    position: sticky;
+    top: 20px; /* A tabela começará a 20px do topo da tela */
+    max-height: 90vh; /* Limita a altura máxima da tabela para 90% da altura da janela */
+    overflow-y: auto; /* Se o conteúdo for maior que a altura, adiciona uma barra de rolagem */
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.alerta-login {
+    position: sticky;
+    top: 140px; /* A tabela começará a 140px do topo da tela */
+    max-height: 90vh; /* Limita a altura máxima da tabela para 90% da altura da janela */
+    overflow-y: auto; /* Se o conteúdo for maior que a altura, adiciona uma barra de rolagem */
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+
+    background-color: #FDF7DF;
+    border: 1px solid #FEEC6F;
+    color: #C9971C;
+
+}
+
+.quadro {
+    padding-top: 0px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.pagination{
+    --bs-pagination-color: #123d0f;
+    --bs-pagination-hover-color: #33e320;
+    --bs-pagination-focus-color: #05990b;
+    --bs-pagination-active-bg: #157347;
+    --bs-pagination-active-border-color: #137d12;
+}
+
+.no-break {
+    white-space: nowrap;
+  }
+
+.cartao-opcoes .form-select{
+    width: 18%;
+}

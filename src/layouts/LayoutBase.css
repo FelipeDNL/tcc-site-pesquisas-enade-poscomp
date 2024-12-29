@@ -1,0 +1,18 @@
+.user-profile {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.dropdown-menu .dropdown-item.active, .dropdown-item:active {
+    transition: height .4s ease;
+    background-color: #02ab11;
+}
+
+.user-photo {
+    border-width: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(29, 134, 16);
+}
+
