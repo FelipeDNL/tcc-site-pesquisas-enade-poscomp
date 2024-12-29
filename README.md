@@ -1,6 +1,8 @@
 # Plataforma Web de Auxílio de Discentes e Docentes
 
-Esta é uma plataforma web desenvolvida para facilitar o estudo e a preparação para os exames POSCOMP e Enade. Oferece funcionalidades como pesquisa de questões, geração de simulados personalizados, relatórios de desempenho e muito mais.
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) em 2024 por alunos do IFSC - Campus Lages. O projeto teve um prazo de desenvolvimento de aproximadamente 5 a 6 meses. A plataforma foi criada utilizando o framework React, contando com Bootstrap para estilização, Firebase para gerenciamento de dados e autenticação, e Typesense para buscas rápidas e eficientes.
+
+O objetivo da plataforma é facilitar o estudo e a preparação para os exames POSCOMP e Enade, proporcionando funcionalidades como a pesquisa detalhada de questões, a criação de simulados personalizados e a geração de relatórios de desempenho individual e geral, promovendo uma experiência de aprendizado mais direcionada e eficiente.
 
 Este é o repositório público do projeto. O site está disponivel para uso a partir do link https://tcc-site-33c66.web.app/.
 
