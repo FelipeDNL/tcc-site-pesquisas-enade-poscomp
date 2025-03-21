@@ -6,10 +6,26 @@ O objetivo da plataforma é facilitar o estudo e a preparação para os exames P
 
 Este é o repositório público do projeto. O site está disponivel para uso a partir do link https://tcc-site-33c66.web.app/.
 
+### 1 - Página inicial do site
 ![image](https://github.com/user-attachments/assets/71135bd0-82b6-43bb-971c-3a252d6c3572)
 
+### 2 - Pesquisa de questões e customização dos simulados
+![pesquisa](https://github.com/user-attachments/assets/6fd6088d-620c-4c20-bc98-510e4e27c06e)
 
-## 🚀 Funcionalidades
+### 3 - Realizando simulado
+<p align="center">
+  <img height='500' src="https://github.com/user-attachments/assets/c5b63d7d-4915-4fab-8a6f-5078594db206">
+</p>
+
+### 4 - Resultado do simulado
+*nessa etapa é utilizado ChartJS para dar o feedback ao usuário
+![simuladoResultado](https://github.com/user-attachments/assets/f0bf01f9-44c6-4c88-864a-7e4eb84610e9)
+
+### 5 - Página de resultados gerais do usuário
+*ChartJS também é usuado nessa página
+![desempenhoUsuario](https://github.com/user-attachments/assets/4dc40024-74d8-400b-ad28-f0bdbea77995)
+
+## Funcionalidades
 
 - Pesquisa detalhada de questões por ano, disciplina, dificuldade e tipo de prova.
 - Criação de simulados personalizados.
@@ -18,20 +34,20 @@ Este é o repositório público do projeto. O site está disponivel para uso a p
 - Gerenciamento de níveis de acesso (admin e usuário).
 - Sincronização de dados em tempo real com Firebase.
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Frontend**: [React](https://react.dev) com suporte a componentes reutilizáveis e responsividade.
 - **Backend**: [Firebase](https://firebase.google.com/), com Firestore para banco de dados NoSQL e Firebase Auth para autenticação.
 - **Design e Protótipos**: [Figma](https://figma.com) para desenvolvimento de interfaces.
 - **Gerenciamento de Projetos**: [Trello](https://trello.com) e metodologia Scrum.
-- **Outras Ferramentas**: Typesense para buscas rápidas e Node.js para scripts de carregamento de dados.
+- **Outras Ferramentas**: Typesense para buscas rápidas, Node.js para scripts de carregamento de dados e ChartJS para mostrar gráficos revelantes.
 
-## 🎯 Público-Alvo
+## Público-Alvo
 
 - **Estudantes**: Facilita a prática e a revisão de conteúdos específicos para POSCOMP e Enade.
 - **Professores**: Disponibiliza ferramentas para criar simulados e analisar o desempenho dos estudantes.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 1. **Módulo de Autenticação do Usuário**:
    - Login seguro com Firebase Auth.
@@ -51,10 +67,10 @@ Este é o repositório público do projeto. O site está disponivel para uso a p
    - Dashboard de desempenho do usuário.
    - Gráficos dinâmicos para análise de acertos, erros e evolução ao longo do tempo.
 
-## 🧪 Testes e Usabilidade
+## Testes e Usabilidade
 
 O sistema foi avaliado utilizando o **System Usability Scale (SUS)**, obtendo uma pontuação média de **86,9**, considerada excelente. Feedbacks dos usuários ajudaram a identificar melhorias e validar as funcionalidades.
 
 ---
 
-Desenvolvido por **Felipe Davi do Nascimento Lopes**, **Lucas Oliveira Bleyer**, e **Edinilson da Silva Vida**.
+Desenvolvido por **Felipe Davi do Nascimento Lopes**, **Lucas Oliveira Bleyer** e orientado por **Edinilson da Silva Vida**.
