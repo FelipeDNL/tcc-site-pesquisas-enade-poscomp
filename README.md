@@ -6,23 +6,29 @@ O objetivo da plataforma é facilitar o estudo e a preparação para os exames P
 
 Este é o repositório público do projeto. O site está disponivel para uso a partir do link https://tcc-site-33c66.web.app/.
 
-### 1 - Página inicial do site
+<p align="center">
+  <a href="https://github.com/user-attachments/files/20323263/Plataforma_Web_Plataforma_Web_de_Auxilio_de_Discentes_e_Docentes_Baseada_nas_Questoes_do_POSCOMP_e_Enade__Copy_.pdf">
+    O artigo completo sobre esse projeto pode ser encotrado clicando aqui!
+  </a>
+</p>
+
+### Página inicial do site
 ![image](https://github.com/user-attachments/assets/71135bd0-82b6-43bb-971c-3a252d6c3572)
 
-### 2 - Pesquisa de questões e customização dos simulados
+### Pesquisa de questões e customização dos simulados
 ![pesquisa](https://github.com/user-attachments/assets/6fd6088d-620c-4c20-bc98-510e4e27c06e)
 
-### 3 - Realizando simulado
+### Realizando simulado
 <p align="center">
   <img height='500' src="https://github.com/user-attachments/assets/c5b63d7d-4915-4fab-8a6f-5078594db206">
 </p>
 
-### 4 - Resultado do simulado
+### Resultado do simulado
 *nessa etapa é utilizado ChartJS para dar o feedback ao usuário
 ![simuladoResultado](https://github.com/user-attachments/assets/f0bf01f9-44c6-4c88-864a-7e4eb84610e9)
 
-### 5 - Página de resultados gerais do usuário
-*ChartJS também é usuado nessa página
+### Página de resultados gerais do usuário
+*ChartJS também é usado nessa página
 ![desempenhoUsuario](https://github.com/user-attachments/assets/4dc40024-74d8-400b-ad28-f0bdbea77995)
 
 ## Funcionalidades
@@ -74,3 +80,4 @@ O sistema foi avaliado utilizando o **System Usability Scale (SUS)**, obtendo um
 ---
 
 Desenvolvido por **Felipe Davi do Nascimento Lopes**, **Lucas Oliveira Bleyer** e orientado por **Edinilson da Silva Vida**.
+
